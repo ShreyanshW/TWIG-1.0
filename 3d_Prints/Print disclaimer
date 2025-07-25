@@ -1,1 +1,4 @@
 These prints are designed to fit on the elegoo Neptune 4 Plus with a 300x300 print bed. This bed is significantly larger than most so your prints may take much longer than what is listed.
+
+In my build process, the print file for the large base took up nearly my entire build plate, but the file is actually slightly incorrect. The holes for the clamp pieces are about 1.5 cm too far inward from where they should be.
+To avoid reprinting such a large piece, I just drilled my own screw holes after I realized the error, but I suggest modifying the pieces if you want to create your own model.
