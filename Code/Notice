@@ -1,0 +1,3 @@
+Many of these code segments were used for testing, so they may not work with full functionality.
+I used the Servo Calibration Sketch to analyze the physical limits of my system(this one does not have acceleration control).
+The most accurate Demo is the pick_place_DEMO, just fill out the array of servo data from the information of your arms physical limits and angle measurements.
